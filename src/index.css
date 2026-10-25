@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Manrope&display=swap');
+@import "tailwindcss";
+
+.inter{
+    font-family: "Inter", sans-serif;
+    font-style: normal;
+    font-size: 14px;
+}
+
+.manrope{
+    font-family: "Manrope", sans-serif;
+    font-size: 20px;
+    font-weight: 800;
+}
+
+.hero-text {
+    font-family: "Inter", sans-serif;
+}
